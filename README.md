@@ -1,5 +1,7 @@
 # COMMIT_MSG
 
+Good commit message? 
+
 ```
 Simplify serialize.h's exception handling
 
