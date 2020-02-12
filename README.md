@@ -1,4 +1,3 @@
-# COMMIT_MSG
 
 Good commit message? 
 
